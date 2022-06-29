@@ -1,1 +1,2 @@
-
+DOWNLOAD storage/test.txt
+EXEC echo "Hello"
