@@ -1,0 +1,12 @@
+{
+    "package": {
+        "name": "Test",
+        "homepage": "homepage",
+        "documentation": "documentation",
+        "issue_tracker": "issue_tracker",
+        "licence": "MIT"
+    },
+    "author": {
+        "name": "Destiny"
+    }
+}
