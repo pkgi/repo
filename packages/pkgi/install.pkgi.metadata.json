@@ -1,0 +1,12 @@
+{
+    "package": {
+        "name": "PKGI (Package Installer)",
+        "homepage": "https://gitlab.com/pkgi/about",
+        "documentation": "https://gitlab.com/pkgi/documentation",
+        "issue_tracker": "https://gitlab.com/pkgi/source",
+        "licence": "MIT"
+    },
+    "author": {
+        "name": "PKGI Team"
+    }
+}
