@@ -1,0 +1,14 @@
+DOWNLOAD https://gitlab.com/pkgi/source/-/raw/main/build/VCRUNTIME140.dll?inline=false
+DOWNLOAD https://gitlab.com/pkgi/source/-/raw/main/build/_bz2.pyd?inline=false
+DOWNLOAD https://gitlab.com/pkgi/source/-/raw/main/build/_decimal.pyd?inline=false
+DOWNLOAD https://gitlab.com/pkgi/source/-/raw/main/build/_hashlib.pyd?inline=false
+DOWNLOAD https://gitlab.com/pkgi/source/-/raw/main/build/_lzma.pyd?inline=false
+DOWNLOAD https://gitlab.com/pkgi/source/-/raw/main/build/_socket.pyd?inline=false
+DOWNLOAD https://gitlab.com/pkgi/source/-/raw/main/build/_ssl.pyd?inline=false
+DOWNLOAD https://gitlab.com/pkgi/source/-/raw/main/build/base_library.zip?inline=false
+DOWNLOAD https://gitlab.com/pkgi/source/-/raw/main/build/libcrypto-1_1.dll?inline=false
+DOWNLOAD https://gitlab.com/pkgi/source/-/raw/main/build/libssl-1_1.dll?inline=false
+DOWNLOAD https://gitlab.com/pkgi/source/-/raw/main/build/pkgi.exe?inline=false
+DOWNLOAD https://gitlab.com/pkgi/source/-/raw/main/build/python310.dll?inline=false
+DOWNLOAD https://gitlab.com/pkgi/source/-/raw/main/build/select.pyd?inline=false
+DOWNLOAD https://gitlab.com/pkgi/source/-/raw/main/build/unicodedata.pyd?inline=false
